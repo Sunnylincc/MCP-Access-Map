@@ -1,0 +1,1 @@
+{"mcpServers":{"local-notes":{"command":"npx","args":["-y","@modelcontextprotocol/server-filesystem","./notes"]},"remote-research":{"url":"https://mcp.example.org/v1"},"review-me":{"command":"bash","args":["-c","echo hello"]}}}
